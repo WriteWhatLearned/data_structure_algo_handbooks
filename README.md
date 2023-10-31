@@ -4,9 +4,11 @@
 
 > 标识格式规范
 
+```python
 """
 @version:   1.0.0
 @author:    wangxwei
 @email:     writewhatlearned@foxmail.com
 @datetime:  2023/10/19
 """
+```
